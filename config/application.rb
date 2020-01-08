@@ -1,4 +1,4 @@
-require_relative 'boot'
+# require_relative 'boot'
 
 # included from https://github.com/rails/rails/blob/5-2-stable/railties/lib/rails/all.rb
 require 'rails'
